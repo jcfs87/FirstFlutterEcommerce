@@ -1,0 +1,7 @@
+Tareas Realizadas
+
+Screen: Login, register, principalView, equiposView, gourmetView y detailView, se puede hacer registro pero no validacion de login
+
+Tareas Pendientes
+
+Views para añadir compras y sistema de pago pendiente
